@@ -1,0 +1,79 @@
+.top{
+  overflow:hidden;
+ background-color: #333;
+  position: absolute; 
+  top:10; 
+  width: 100%; 
+}
+
+body
+{background-color:#ffffff;}
+
+
+hr{ border-style: none;
+   border-top-style: dotted;
+    border-color:grey;
+    border-width:5px;
+    width:5%;}
+#hr1{     border-style: none;
+    width: 100%;
+    border-top: inset;
+}
+
+.mid-container{
+background-color:white;
+}
+#intro{
+        word-spacing:10;
+color:grey;
+position:absolute;
+font-size: larger;
+
+}
+.icon-1{
+position:absolute;
+  
+         }
+.name{
+font-family:'Ephesis',cursive;
+ color:#66BFBF;
+ font-size:5rem;
+
+}
+#work{
+     font-family: 'Inter',bold;
+color:#66BFBF;
+font-size:1rem;
+}
+
+#cloud1{
+    width: 200;
+    positon: absolute;
+    position: absolute;
+    left: 20;
+    height: auto;
+}
+#cloud2{
+    position: absolute;
+    right: 87;
+        top: 300;
+    width: 200;
+    height: 150;
+
+}
+#mount{position: absolute;
+    right: 500;
+   top: 220;
+}
+.5{    width: 25%;
+    float: left;
+    margin-right: 30px;
+background-color:white}
+#5{text-align: left;
+    line-height: 2;
+background-color:white}
+.bottom-container{
+background-color:white;}
+.bg{
+background-color:white;}
+.top-container{background-color:#F3F1F5;}
